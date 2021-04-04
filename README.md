@@ -7,6 +7,8 @@ So, here we go:
 It is a text data analysis on youtube data. Basically, it is all about how people react to the videos. Sentimental Analysis is performed on the basis of likes, dislikes and comments.
 Link for the Dataset : https://www.kaggle.com/akshat0311/youtube-comments-sentiment-analysis
 
+YouTube link for explanation:- https://www.youtube.com/watch?v=Fm649aCz0gs
+
 Insights:
 1. Sentimental Analysis
 2. Calculating polarity of the comments
